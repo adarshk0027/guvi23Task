@@ -1,0 +1,15 @@
+.mg{
+margin-left: .8rem;
+}
+.illu{
+    border-color: #d1d3e2;
+    border-width: .002rem;
+    border-style: solid;
+    padding-top: 1rem;
+}
+.Text{
+    margin-right: 2rem;
+    font-size: 3.3mm;
+    font-weight: bold;
+    color: gray;
+}

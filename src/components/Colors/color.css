@@ -1,0 +1,12 @@
+.Text{
+    color: rgba(255, 255, 255, 0.51);
+    padding-bottom: 1rem;
+}
+Text1{
+    color: gray;
+}
+.Color{
+    position: relative;
+    top: 1rem;
+    margin-top: 1rem;
+}

@@ -1,0 +1,111 @@
+.NavBar{
+    height: 95rem;
+}
+.main{
+    height: 4rem;
+    margin-left:1rem ;
+    margin-right: 1rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.449);
+    border-bottom-width: .0001rem;
+}
+.Imoji{
+    margin-top: 1rem;
+    padding-left: 1rem;
+    padding-right: .7rem;
+}
+.Text{
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1.6rem;
+    padding-left: .5rem;
+    padding-right: .7rem;
+    color: white;
+    font-size: .9rem;
+    font-weight: 510;
+}
+.dashBoard{
+    margin-left:1rem ;
+    margin-right: 1rem;
+    height: 3rem;
+    padding-top: .49rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.449);
+    border-bottom-width: .0001rem;
+}
+.dashBoard > p{
+    position: relative;
+    right: 3.5rem;
+    color: white;
+    font-size: small;
+    font-weight: 500;
+    margin-top: .4rem;
+    
+}
+.interface{
+    margin-left:1rem ;
+    margin-right: 1rem;
+    padding-top: .49rem;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(255, 255, 255, 0.449);
+    border-bottom-width: .0001rem;
+}
+.interface > .p{
+    position: relative;
+    margin-top: .5rem;
+    right: 4.5rem;
+    color: rgba(255, 255, 255, 0.626);
+    font-size: x-small;
+    font-weight: 700;
+}
+.interface .same{
+    position: relative;
+    right: 2rem;
+    font-size: small;
+    font-weight: 700;
+    color: white;
+}
+ .FirstLetter{
+    font-size: medium;
+}
+.DropDown{
+    display: none;
+    
+}
+.Show{
+    display: block;
+    border-radius: .8rem;
+    transition:all 0.5s ease;
+    list-style:none;
+    font-weight: 500;
+    font-size: small;
+    padding-right: 7rem;
+}
+
+.first{
+    color: gray;
+}
+
+.utilities{
+    position: relative;
+    right: 3rem;
+    font-size: small;
+    font-weight: 700;
+    color: white;
+}
+.pages{
+    position: relative;
+    right: 3.5rem;
+    font-size: small;
+    font-weight: 700;
+    color: white;
+}
+.arrow{
+    margin-top: 1rem;
+    margin-left: 6rem;
+    width: 2.5rem;
+    height: 2rem;
+    background-color: rgba(38, 0, 255, 0.221);
+}
+.icons :hover{
+    color: aliceblue;
+}

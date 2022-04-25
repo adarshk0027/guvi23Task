@@ -1,0 +1,20 @@
+.pr{
+    margin-left: .85rem;
+    border-color: #d1d3e2;
+    border-width: .002rem;
+    border-style: solid;
+
+}
+.progress{
+    width: 19rem;
+}
+.P-text{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+.P-percent{
+    margin-left: 12rem;
+    font-weight: bold;
+    color: gray;
+}

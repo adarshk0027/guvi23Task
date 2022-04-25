@@ -1,0 +1,9 @@
+.line{
+    position: relative;
+    border-color: #d1d3e2;
+    border-width: .002rem;
+    border-style: solid;
+    left: .8rem;
+    height: 18rem;
+    
+}

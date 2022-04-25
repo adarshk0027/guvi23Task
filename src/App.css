@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+.searchbar{
+  padding-top: 1rem;
+  margin-left: 1rem;
+}
+.notification{
+  position: relative;
+  top: 1rem;
+  height: 2rem;
+  border: 0 1 0 0;
+  border-style: solid;
+  border-color: gray;
+  border-bottom-width: 0;
+  border-top-width:0 ;
+  border-left-width:0 ;
+  border-right-width: .001rem;
+}
+.notification button{
+  margin-left: 1.5rem;
+}
+.image{
+  position: relative;
+  top: 1rem;
+}
+.text p{
+  font-size: x-small;
+  color: gray;
+  margin-top: .6rem;
+}
+.avatar{
+  padding-left: .5rem;
+}
+.avatar img{
+  height: 1.5rem;
+  width: 1.5rem;
+  
+}
+.wid{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.dash{
+  background-color: #e5e5e5;
+  position: relative;
+  top: 1.5rem;
+}
+.board h3{
+  position: relative;
+  right: 10rem;
+  color: rgb(102, 95, 95);
+}
+.Generate{
+  height: 2rem;
+  font-size: small;
+}
+.rupee{
+  color: rgba(0, 0, 0, 0.621);
+}
+.sec > p{
+  font-weight: bold;
+  font-size: .6rem;
+}
+.Main{
+  margin-top: 1.5rem;
+  background-color: #e5e5e5;
+}
+.four{
+  height: 6rem;
+}
+.one{
+  height: 5rem;
+}
+.progress{
+  width: 4rem;
+  height: .6rem;
+  margin-left: .5rem;
+  margin-top: .5rem;
+}
+.Projects{
+  margin-top: 2rem;
+}
+
+
+

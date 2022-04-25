@@ -1,0 +1,8 @@
+.search{
+    font-size: x-small;
+    width: 20rem;
+    height: 2.5rem;
+    border-color: rgba(127, 255, 212, 0.33);
+    border-style: solid;
+    border-width: .2rem;
+}
